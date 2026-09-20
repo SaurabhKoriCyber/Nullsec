@@ -145,3 +145,4 @@
     lazyImages.forEach(img => imageObserver.observe(img));
   }
 })();
+// Just for demonstration purposes, you can add more features or modify existing ones as needed.
